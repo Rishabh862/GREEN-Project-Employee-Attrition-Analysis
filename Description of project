@@ -1,0 +1,21 @@
+🟢 GREEN Project – Employee Attrition Analysis
+This project analyzes employee attrition data to identify key factors influencing workforce turnover.
+Using Python libraries such as Pandas, NumPy, Seaborn, and Matplotlib, it explores relationships
+between attrition and variables like age, years at company, monthly income, and department.
+
+🔍 Key Features
+
+Calculates overall attrition rate.
+Visualizes attrition patterns using boxplots and countplots.
+Compares average age, income, and tenure between employees who left vs. those who stayed.
+Examines department-wise attrition trends to find high-risk areas.
+
+🧰 Tools & Technologies
+
+Python (Pandas, NumPy, Seaborn, Matplotlib)
+Jupyter Notebook for analysis and visualization
+CSV dataset (RR.csv) for employee details
+
+💡 Insights
+Younger employees and those with lower income or shorter tenure tend to leave more frequently.
+Certain departments experience higher attrition rates, highlighting areas for retention focus.
