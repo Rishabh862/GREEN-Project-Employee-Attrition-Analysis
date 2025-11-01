@@ -21,4 +21,3 @@ CSV dataset (RR.csv) for employee details
 
 Younger employees and those with lower income or shorter tenure tend to leave more frequently.
 Certain departments experience higher attrition rates, highlighting areas for retention focus.
-Would you like me to make it shorter (for a GitHub repository tagline) or more detailed (for a README.md description)?
